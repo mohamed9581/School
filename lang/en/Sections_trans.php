@@ -1,0 +1,35 @@
+<?php
+
+return [
+
+    'title_page' => 'sections',
+    'List_Grade' => 'Liste niveaux scolaires',
+    'add_section' => 'Add Section ',
+    'edit_Section'=> 'Edit Section',
+    'delete_Section'=> 'Delete Section',
+    'Warning_Section'=> 'vous êtes sùr de vouloir executer la suppression ?',
+    'Section_name_ar' => 'Nom section en arabe',
+    'Section_name_en' => 'Nom section en français',
+    'Select_Grade' => '-- Select niveau scolaire --',
+    'Select_Teacher' => '-- Selectionner professeur --',
+    'Name_Grade' => 'Nom du niveau scolaire',
+    'Name_Section' => 'Nom de la section',
+    'Name_Teacher' => 'Nom du professeur',
+    'submit' => 'submit',
+    'nom'=>'Nom de la Section',
+    'nomClasse'=>'Nom de la classe',
+    'nomTeacher'=>'Nom du professeur',
+    'Status'=>'Status',
+    'Status_Section_AC'=>'Active',
+    'Status_Section_No'=>'Inactive',
+    'delete_Grade_Error'=>'The Grade cannot be deleted because there are classes attached to it',
+    'required_ar'=>'Please Enter The Section Name in Arabic',
+    'required_en'=>'Please Enter The Section Name in English',
+    'Grade_id_required'=>'Please Select The Grade Name',
+    'Class_id_required'=>'Please Select The Class Name',
+    'Processes'=>'Processes',
+    'Edit'=>'Edit',
+    'Delete'=>'Delete',
+    'Close' => 'Close',
+
+];

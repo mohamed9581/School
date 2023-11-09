@@ -1,0 +1,46 @@
+<?php
+
+return [
+    'add_parent' => 'Ajout des parents',
+    'Step1' => 'informations du père',
+    'Step2' => 'informations de la mère',
+    'Step3' => 'Confirmation des informations',
+    'Email' => 'Email',
+    'Password' => 'Password',
+    'Name_Father' => 'Nom du père en arabe',
+    'name_tuteur' => 'Nom du tuteur',
+    'Name_Father_en' => 'Nom du père en français',
+    'Job_Father' => 'Fonction du père en arabe',
+    'Job_Father_en' => 'Fonction du père en français',
+    'National_ID_Father' => 'CNIE',
+    'Passport_ID_Father' => 'N°Passeport',
+    'Phone_Father' => 'N°Téléphone',
+    'Nationality_Father_id' => 'Nationalité',
+    'Blood_Type_Father_id' => 'Groupe sanguin',
+    'Religion_Father_id' => 'Religion',
+    'Address_Father' => 'Addresse du père',
+    'confirmation' => 'Etes-vous sûr de vouloir sauvegarder les données ?',
+
+    //معلومات الام
+    'Name_Mother' => 'Nom de la mère en arabe',
+    'Name_Mother_en' => 'Nom de la mère en français',
+    'Job_Mother' => 'Fonction de la mère en arabe',
+    'Job_Mother_en' => 'Fonction de la mère en français',
+    'National_ID_Mother' => 'CNIE',
+    'Passport_ID_Mother' => 'N°Passeport',
+    'Phone_Mother' => 'N°Téléphone',
+    'Address_Mother' => 'Addresse de la mère',
+    'Edit' => 'Editer',
+    'Delete' => 'Supprimer',
+    'attendance' => 'Absence',
+    'Next' => 'Suivant',
+    'Back' => 'Retour',
+    'Finish' => 'Fin',
+    'Choose' => 'Choisir',
+    'children' => 'Les enfants',
+    'profile' => 'profile',
+    'Attachments' => 'Pièces jointes',
+    'Processes' => 'Actions',
+
+
+];

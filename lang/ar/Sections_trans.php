@@ -1,0 +1,36 @@
+<?php
+
+return [
+
+    'title_page' => 'الاقسام',
+    'List_Sections' => 'قائمة الأقسام',
+    'add_section' => 'اضافة قسم',
+    'edit_Section'=> 'تعديل قسم',
+    'delete_Section'=> 'حذف قسم',
+    'Warning_Section'=> 'هل انت متاكد من عملية الحذف',
+    'Section_name_ar' => 'اسم القسم باللغة العربية',
+    'Section_name_en' => 'اسم القسم باللغة الفرنسية',
+    'Select_Grade' => '-- حدد المرحلة --',
+    'Select_Teacher' => '-- حدد المدرس --',
+    'Name_Grade' => 'اسم المرحلة',
+    'Name_Section' => 'اسم القسم',
+    'Name_Teacher' => 'اسم المدرس',
+    'Notes' => 'Notes',
+    'submit' => 'حفظ البيانات',
+    'nom'=>'اسم القسم',
+    'nomClasse'=>'اسم الصف',
+    'nomTeacher'=>'اسم المعلم',
+    'Status'=>'الحالة',
+    'Status_Section_AC'=>'نشط',
+    'Status_Section_No'=>'غير نشط',
+    'delete_Grade_Error'=>'لا يمكنك حذف المرحلة لأنها تحتوي على فصول',
+    'required_ar'=>'يرجي ادخال اسم القسم باللغة العربية',
+    'required_en'=>'يرجي ادخال اسم القسم باللغة الفرنسية',
+    'Grade_id_required'=>'يرجي اختيار اسم المرحلة',
+    'Class_id_required'=>'يرجي تحديد الصف الدراسي',
+    'Processes'=>'العمليات',
+    'Edit'=>'تعديل',
+    'Delete'=>'حذف',
+    'Close' => 'اغلاق',
+
+];
